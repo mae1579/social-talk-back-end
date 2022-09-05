@@ -54,13 +54,13 @@ Start the server
 Clone the project
 
 ```bash
-  git clone https://github.com/patrycja-dev41171/megak-headhunter-6-frontend.git
+  git clone https://github.com/mae1579/social-talk-front-end.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd megak-headhunter-6-frontend
+  cd social-talk-front-end
 ```
 
 Install dependencies
