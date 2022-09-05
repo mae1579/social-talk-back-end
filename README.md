@@ -86,10 +86,12 @@ Start the server
 <a href="https://files.fm/u/p79bkh395#/view/Zak%C5%82adanie%20konta.PNG"><img src="https://files.fm/thumb_show.php?i=6pkvx7xet"></a>
 
 <h4>Chat</h4>
+
 <a href="https://files.fm/u/p79bkh395#/view/Rozmowa1.PNG"><img src="https://files.fm/thumb_show.php?i=mff3bxbhf"></a>
 <br>
 <a href="https://files.fm/u/p79bkh395#/view/rozmowa2.PNG"><img src="https://files.fm/thumb_show.php?i=56ymvxpah"></a>
-
+<h4>Wylogowanie/Logout</h4>
+<a href="https://files.fm/u/p79bkh395#/view/wylogowywwanie.PNG"><img src="https://files.fm/thumb_show.php?i=wwkasmuer"></a>
 
 Social-talk : back-end its a server side to application when we are able to write some messages.
 In app i was using mongoDB atlas as a database.
