@@ -21,8 +21,59 @@ The application consists of two repositories:
 <p>I have completed my knowledge acquired during the course and used it during the project.
 Additionally, I learned to use socket.io and learned redux</p>
 
+## Setup ⚙️
+<p>extract the back-end and front-end to the same forder</p>
+## BACKEND
 
+Clone the project
 
+```bash
+  git clone https://github.com/patrycja-dev41171/megak-headhunter-6-backend.git
+```
+
+Go to the project directory
+
+```bash
+  cd megak-headhunter-6-backend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
+
+## FRONTEND
+
+Clone the project
+
+```bash
+  git clone https://github.com/patrycja-dev41171/megak-headhunter-6-frontend.git
+```
+
+Go to the project directory
+
+```bash
+  cd megak-headhunter-6-frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
 
 
 Social-talk : back-end its a server side to application when we are able to write some messages.
