@@ -80,7 +80,7 @@ Start the server
 ##Screenshots 📷
 
 <h4>Logowanie</h4>
-<a href="https://files.fm/f/f8jga8z7f"><img src="https://fv9-4.failiem.lv/down.php?i=f8jga8z7f&view"></a>
+<a href="https://files.fm/u/p79bkh395#/view/Logowanie.PNG"><img src="https://files.fm/thumb_show.php?i=f8jga8z7f"></a>
 
 
 Social-talk : back-end its a server side to application when we are able to write some messages.
