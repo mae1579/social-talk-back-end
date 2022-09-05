@@ -18,8 +18,9 @@ The application consists of two repositories:
 
 
 ## Lessons Learned 📝
-<p>I have completed my knowledge acquired during the course and used it during the project.</p>
-<p> Additionally, I learned to use socket.io and learned redux</p>
+<p>I have completed my knowledge acquired during the course and used it during the project.
+Additionally, I learned to use socket.io and learned redux</p>
+
 
 
 
