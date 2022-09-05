@@ -28,13 +28,13 @@ Additionally, I learned to use socket.io and learned redux</p>
 Clone the project
 
 ```bash
-  git clone https://github.com/patrycja-dev41171/megak-headhunter-6-backend.git
+  git clone https://github.com/mae1579/social-talk-back-end.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd megak-headhunter-6-backend
+  cd social-talk-back-end
 ```
 
 Install dependencies
