@@ -9,7 +9,7 @@ The application consists of two repositories:
   <li>Front-end:https://github.com/mae1579/social-talk-front-end </li>
 </ul>
 
-## Tech Stack <a href="https://www.flaticon.com/"><img src="https://cdn-icons-png.flaticon.com/512/7717/7717271.png"></a>
+## Tech Stack <a href="https://www.freepik.com" title="Freepik"> </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>"></a>
 
 
 
