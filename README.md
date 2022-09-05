@@ -20,6 +20,9 @@ The application consists of two repositories:
   <li>Front-end:https://github.com/mae1579/social-talk-front-end </li>
 </ul>
 
+## Demo
+https://youtu.be/68A6heNuBaI
+
 ## Author 🧑
 - [@mae1579](https://github.com/mae1579) <br/>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mateusz-umi%C4%99cki-54b286248/
