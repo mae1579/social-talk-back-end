@@ -1,4 +1,4 @@
-
+<a href="https://files.fm/f/xxn4n3gfp"><img src="https://files.fm/thumb_show.php?i=xxn4n3gfp"></a>
 ## Social-talk
 The application was created as part of completing the programming course: MegaK (https://www.megak.pl/).
 The basic functionality of the application is a chat that allows you to chat with other registered users.
