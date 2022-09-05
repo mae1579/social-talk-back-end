@@ -3,11 +3,11 @@
 The application was created as part of completing the programming course: MegaK (https://www.megak.pl/).
 The basic functionality of the application is a chat that allows you to chat with other registered users.
 The application consists of two repositories:
-<ol>
+<ul>
   <li>Back-end: </li>
   <li>Front-end: </li>
 
-</ol>
+</ul>
 
 Its a show skills  to using: java script, type script, express.js, mongoDB, socket.io.
 
