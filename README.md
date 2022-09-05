@@ -77,10 +77,10 @@ Start the server
 ## DATABSE
 <p>The application uses Mongodb Atlas so you automatically have a database connection when using the application.</p>
 
-Screenshots 📷
+##Screenshots 📷
 
-<h2>Logowanie</h2>
-<a href="https://files.fm/f/xxn4n3gfp"><img src="https://files.fm/f/f8jga8z7f"></a>
+<h4>Logowanie</h4>
+<a href="https://files.fm/f/f8jga8z7f"><img src="https://files.fm/thumb_show.php?i=f8jga8z7f"></a>
 
 
 Social-talk : back-end its a server side to application when we are able to write some messages.
