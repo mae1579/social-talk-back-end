@@ -1,5 +1,8 @@
-## MegaK HeadHunter #6
+
 ## Social-talk
+<hr>
+The application was created as part of completing the programming course: MegaK (https://www.megak.pl/).
+
 Its a show skills  to using: java script, type script, express.js, mongoDB, socket.io.
 
 Social-talk : back-end its a server side to application when we are able to write some messages.
