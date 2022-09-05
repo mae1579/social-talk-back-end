@@ -1,4 +1,5 @@
-# social-talk-back-end
+## MegaK HeadHunter #6
+## Social-talk
 Its a show skills  to using: java script, type script, express.js, mongoDB, socket.io.
 
 Social-talk : back-end its a server side to application when we are able to write some messages.
