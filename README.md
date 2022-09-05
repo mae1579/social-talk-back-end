@@ -79,8 +79,16 @@ Start the server
 
 ##Screenshots 📷
 
-<h4>Logowanie</h4>
+<h4>Logowanie/Login</h4>
 <a href="https://files.fm/u/p79bkh395#/view/Logowanie.PNG"><img src="https://files.fm/thumb_show.php?i=f8jga8z7f"></a>
+
+<h4>Rejestracja/Register</h4>
+<a href="https://files.fm/u/p79bkh395#/view/Zak%C5%82adanie%20konta.PNG"><img src="https://files.fm/thumb_show.php?i=6pkvx7xet"></a>
+
+<h4>Chat</h4>
+<a href="https://files.fm/u/p79bkh395#/view/Rozmowa1.PNG"><img src="https://files.fm/thumb_show.php?i=mff3bxbhf"></a>
+<br>
+<a href="https://files.fm/u/p79bkh395#/view/rozmowa2.PNG"><img src="https://files.fm/thumb_show.php?i=56ymvxpah"></a>
 
 
 Social-talk : back-end its a server side to application when we are able to write some messages.
